@@ -16,7 +16,7 @@ Azure-Administrator-Journey-AZ-104
 └── Resources/ # Links, books, videos
 
 ## 🎯 Current Progress
-- [ ] Azure Administration (20%)
+- [ ] Azure Administration (40%)
 - [ ] Azure Networking (0%)
 - [ ] Azure Storage (0%)
 - [ ] Azure Compute (0%)
@@ -37,6 +37,7 @@ git clone https://github.com/YOUR-USERNAME/azure-az104-journey.git
 
 # Update repository
 git pull origin main
+
 
 
 
